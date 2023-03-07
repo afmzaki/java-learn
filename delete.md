@@ -2,3 +2,4 @@
 
 #apakah aji benar
 #buktikan sekali lagi
+#sakali deui
